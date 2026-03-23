@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Shame On Me",
+  "base_artist": "George Strait",
+  "createdAt": "2026-03-23T15:50:25.990226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Amanda Blank",
+      "has_synced": true,
+      "path": "select/01_Shame_On_Me_Amanda_Blank.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_Shame_On_Me_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shame On Me (Feat. Nile Rodgers)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_Shame_On_Me_(Feat._Nile_Rodgers)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shame On Me - Avicii By Avicii",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/04_Shame_On_Me_-_Avicii_By_Avicii_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Catch Your Breath",
+      "has_synced": true,
+      "path": "select/05_Shame_On_Me_Catch_Your_Breath.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Chuck Jackson",
+      "has_synced": false,
+      "path": "select/06_Shame_On_Me_Chuck_Jackson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/07_Shame_On_Me_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/08_Shame_On_Me_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shame On Me (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/09_Shame_On_Me_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Face to Face",
+      "has_synced": true,
+      "path": "select/10_Shame_On_Me_Face_to_Face.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shame on Me",
+      "artist": "Tech N9ne feat. Caroline Dupuy Heerwagen",
+      "has_synced": true,
+      "path": "select/11_Shame_on_Me_Tech_N9ne_feat._Caroline_Dupuy_Heerwagen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shame on Me",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/12_Shame_on_Me_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Eisblume",
+      "has_synced": false,
+      "path": "select/13_Shame_On_Me_Eisblume.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Roxx Gang",
+      "has_synced": false,
+      "path": "select/14_Shame_On_Me_Roxx_Gang.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shame On Me",
+      "artist": "Marit Bergman",
+      "has_synced": false,
+      "path": "select/15_Shame_On_Me_Marit_Bergman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shame On Me",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/pl_01_Shame_On_Me_George_Strait.txt"
+    }
+  ]
+}
